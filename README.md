@@ -15,5 +15,3 @@
 <p align="center">
     <a href="https://github.com/drmodun/EdInvest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drmodun&repo=EdInvest"/></a>
 </p>
-
----
